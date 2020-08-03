@@ -1,0 +1,14 @@
+{
+  "name": "glsl-utilities",
+  "version": "1.0.0",
+  "description": "Utilities for all kind of glsl things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "glsl"
+  ],
+  "author": "Daniel Velasquez",
+  "license": "ISC"
+}
