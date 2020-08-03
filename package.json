@@ -1,14 +1,22 @@
 {
-  "name": "glsl-utilities",
-  "version": "1.0.0",
-  "description": "Utilities for all kind of glsl things",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "glsl"
-  ],
-  "author": "Daniel Velasquez",
-  "license": "ISC"
+	"name": "glsl-utils",
+	"version": "1.0.0",
+	"description": "Utilities for all kind of glsl things",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Anemolo/glsl-utils.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Anemolo/glsl-utils/issues"
+	},
+	"homepage": "https://github.com/Anemolo/glsl-utils",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"glsl"
+	],
+	"author": "Daniel Velasquez <velasquezdanield@gmail.com> (velasquezdaniel.com)",
+	"license": "MIT"
 }
